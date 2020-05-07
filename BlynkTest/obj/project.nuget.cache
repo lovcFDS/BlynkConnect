@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMfmsRWbfnEp3F7uby9g7EnY/vrzErDUszj8MXNXr9b1qw4CQzQUQla6CtttH45qZ5Iz7ihoS7gijm8sjSwLnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\李光辉\\source\\repos\\BlynkTest\\BlynkTest\\BlynkTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\李光辉\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\李光辉\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\李光辉\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\李光辉\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\李光辉\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\李光辉\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\李光辉\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\李光辉\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
